@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "company": "SHPE @ UF",
+    "role": "Newsletter Director",
+    "dates": "2023-Current",
+    "desc": [
+      "Migrated mailing service from Mailchimp to Beehiiv, utilizing SQL for database management to increase audience capacity from 500 to 2500 and broaden data collection ability",
+      "Dispersed 50 internship and scholarship opportunities in 4 months to SHPE members through collaboration with other directors, providing valuable resources for members and their professional and academic development",
+      "Implemented a member spotlight to increase newsletter exposure and readership, encouraging exponential growth through a member nomination form",
+      "Transformed content and visual medium of the biweekly newsletter to offer more opportunities and increase accessibility and multi-device readability"
+    ],
+    "img": "assets/experiences/shpe.png"
+  },
+  {
+    "id": 2,
+    "company": "SHPE @ UF",
+    "role": "SHPEducation Tutor",
+    "desc": [
+      "Helped 20 students in MATLAB coursework through a minimum of 3 hours a week, fostering the academic growth of fellow SHPE members",
+      "Developed notes and lesson plans for weekly sessions, emphasizing the personal understanding of the student and improving their individual problem-solving ability, rather than solely assisting in coursework"
+    ],
+    "dates": "2023-Current",
+    "img": "assets/experiences/shpe.png"
+  }
+]

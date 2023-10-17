@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "company": "University of Florida Intelligent-Health Lab",
+    "role": "Research Assistant Annotator",
+    "dates": "September 2023 - Present",
+    "desc": [
+      "Trained a large neural network for predictive and risk analysis of ICU patients, incorporating context sensing and situation-aware context communication to create an intelligent ICU",
+      "Sustained an annotation pace of 800 per week, thereby safeguarding adherence to project deadlines",
+      "Tracked script errors and possible improvements through a weekly report to eliminate inefficiencies and provided a medium for annotators to share their experienced shortcomings and limitations"
+    ],
+    "img": "assets/experiences/IHeal.png"
+  },
+  {
+    "id": 2,
+    "company": "Smart Medical Informatics Learning and Evaluation Lab",
+    "role": "Research Assistant",
+    "desc": [
+      "Developed a MATLAB script to automate a part of the annotation process through Excel integration, increasing the productivity of over 20 annotators by 80% and improving the ease of use",
+      "Synchronized completed annotations with existing data through shell scripting in a virtual network computing environment to improve data accessibility and readability for all annotators",
+      "Annotated 4D CT scans for multiple arterial and venous locations, employing MATLAB scripts to train a generative adversarial network in creating CTP scans from contrast-free CT scans"
+    ],
+    "dates": "July 2023 - Present",
+    "img": "assets/experiences/SMARTLAB.png"
+  }
+
+]
